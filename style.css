@@ -1,0 +1,14 @@
+header {
+   
+        background-image: url('header-image.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 100px;
+        background-repeat: no-repeat; /* Prevent the image from repeating */
+        background-attachment: fixed; /* Keep the image in place while scrolling */
+        filter: brightness(0.8); /* Adjust the brightness */
+   
+}
+#navbarNav a{
+    color:white;
+}
