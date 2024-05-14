@@ -24,4 +24,4 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 Ocupamos bibliotecas extra.
 
-Creado por Michelle en el bootcamp de Technolochicas PRO.
+Creado por Michelle Mercado en el bootcamp de Technolochicas PRO.
